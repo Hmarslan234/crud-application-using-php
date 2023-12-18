@@ -1,4 +1,4 @@
-# crup-application-using-php
+# crud-application-using-php
 
 CRUD application using html & css, php & mysql
 
